@@ -100,7 +100,7 @@ Ma conviction : une bonne formation ne se limite pas au contenu. Elle repose sur
 |---|---|
 | 🎓 [`learning-design-toolkit`](https://github.com/mdufau/learning-design-toolkit) | Templates et ressources pédagogiques open source |
 | 🏆 [`sales-academy-framework`](https://github.com/mdufau/sales-academy-framework) | Structure d'une Sales Academy (exemple anonymisé) |
-| 🎮 [`elearning-gamification`](https://github.com/mdufau/elearning-gamification) | A bilingual EN/FR interactive serious game: a 4-scene B2B sales simulation with branching choices, immediate pedagogical feedback, scoring and skill badges | Digital content design, gamification mechanics, HTML/CSS/JS |
+| 🎮 [`learning-gamification`](https://github.com/mdufau/learning-gamification) | A bilingual EN/FR interactive serious game: a 4-scene B2B sales simulation with branching choices, immediate pedagogical feedback, scoring and skill badges | Digital content design, gamification mechanics, HTML/CSS/JS |
 | 🌐 [`mdufau.github.io`](https://mdufau.github.io) | Mini-site portfolio en HTML/CSS |
 
 > *Ce GitHub est en construction — les projets arrivent progressivement.*
