@@ -101,6 +101,7 @@ Ma conviction : une bonne formation ne se limite pas au contenu. Elle repose sur
 | 🎓 [`learning-design-toolkit`](https://github.com/mdufau/learning-design-toolkit) | Templates et ressources pédagogiques open source |
 | 🏆 [`sales-academy-framework`](https://github.com/mdufau/sales-academy-framework) | Structure d'une Sales Academy (exemple anonymisé) |
 | 🌐 [`mdufau.github.io`](https://mdufau.github.io) | Mini-site portfolio en HTML/CSS |
+|soon : demos | Productions |
 
 > *Ce GitHub est en construction — les projets arrivent progressivement.*
 > *This GitHub is a work in progress — projects coming soon.*
