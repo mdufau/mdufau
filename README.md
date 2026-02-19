@@ -44,6 +44,7 @@ I believe great training isn't just about content. It's about **strategy, struct
 ### Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mdufau-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mdufau)
+🌐 [mdufau.github.io](https://mdufau.github.io)
 📧 melaniedcm@icloud.com
 
 ---
@@ -88,6 +89,7 @@ Ma conviction : une bonne formation ne se limite pas au contenu. Elle repose sur
 ### Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mdufau-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mdufau)
+🌐 [mdufau.github.io](https://mdufau.github.io)
 📧 melaniedcm@icloud.com
 
 ---
