@@ -102,7 +102,7 @@ Ma conviction : une bonne formation ne se limite pas au contenu. Elle repose sur
 | 🏆 [`sales-academy-framework`](https://github.com/mdufau/sales-academy-framework) | Structure d'une Sales Academy (exemple anonymisé) |
 | 🎮 [`learning-gamification`](https://github.com/mdufau/learning-gamification) | A bilingual EN/FR interactive serious game: a 4-scene B2B sales simulation with branching choices, immediate pedagogical feedback, scoring and skill badges | Digital content design, gamification mechanics, HTML/CSS/JS |
 | 🌐 [`mdufau.github.io`](https://mdufau.github.io) | Mini-site portfolio en HTML/CSS |
-| 🤖 [ai-enablement-note](https://github.com/mdufau/ai-enablement-note) | Escape game interactif + note prospective sur l'IA en Sales Enablement |
+| 🤖 [`ai-enablement-note](https://github.com/mdufau/ai-enablement-note) | Escape game interactif + note prospective sur l'IA en Sales Enablement |
 
 
 > *Ce GitHub est en construction — les projets arrivent progressivement.*
